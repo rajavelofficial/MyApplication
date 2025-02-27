@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="button_font_size">Change Font Size</string>
+    <string name="button_font_color">Change Font Color</string>
+
+    <!-- Added content descriptions for buttons -->
+    <string name="button_font_size_desc">Button to change font size</string>
+    <string name="button_font_color_desc">Button to change font color</string>
+</resources>
